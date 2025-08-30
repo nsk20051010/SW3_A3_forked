@@ -100,4 +100,4 @@ A short PDF report (`report.pdf`) is included with:
 ---
 
 ## 👨‍💻 Authors
-- Nishad Kadam (VNIT CSE)
+- Nishad Kadam - VNIT CSE
